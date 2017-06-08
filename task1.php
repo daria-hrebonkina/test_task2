@@ -15,6 +15,7 @@ function getNextArr($prevArr)
     }
     return $arr;
 }
+// $num is a number of digits in number of last card
 
 function luckyTickets($num) {
     $arr = [];

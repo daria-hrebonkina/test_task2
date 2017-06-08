@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c02048e9-7b3f-4c64-beb5-998f12309108" name="Default" comment="" />
+    <list default="true" id="c02048e9-7b3f-4c64-beb5-998f12309108" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task1.php" afterPath="$PROJECT_DIR$/task1.php" />
+    </list>
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,31 +33,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task1.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="task1.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="123">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task3.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task3.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task3/task3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="850">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
               <folding>
-                <marker date="1496955255887" expanded="true" signature="171:194" ph="SELECT * FRO... category" />
-                <marker date="1496955255887" expanded="true" signature="1324:1555" ph="SELECT `film... film" />
-                <marker date="1496955255887" expanded="true" signature="1324:1754" ph="SELECT `film... film" />
+                <marker date="1496956862296" expanded="true" signature="171:194" ph="SELECT * FRO... category" />
+                <marker date="1496956862296" expanded="true" signature="1196:1427" ph="SELECT `film... film" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,8 +68,8 @@
         <option value="$PROJECT_DIR$/task2/Product.php" />
         <option value="$PROJECT_DIR$/task2/testScript.php" />
         <option value="$PROJECT_DIR$/task2/Index.php" />
-        <option value="$PROJECT_DIR$/task1.php" />
         <option value="$PROJECT_DIR$/task3/task3.php" />
+        <option value="$PROJECT_DIR$/task1.php" />
       </list>
     </option>
   </component>
@@ -107,7 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -143,6 +146,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,17 +221,18 @@
       <updated>1496866788701</updated>
       <workItem from="1496866789831" duration="12366000" />
       <workItem from="1496954489244" duration="928000" />
+      <workItem from="1496956873293" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13294000" />
+    <option name="totallyTimeSpent" value="13337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="576" extended-state="7" />
+    <frame x="-8" y="-8" width="1040" height="576" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -283,9 +288,35 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1496955255887" expanded="true" signature="171:194" ph="SELECT * FRO... category" />
-            <marker date="1496955255887" expanded="true" signature="1324:1555" ph="SELECT `film... film" />
-            <marker date="1496955255887" expanded="true" signature="1324:1754" ph="SELECT `film... film" />
+            <marker date="1496956862296" expanded="true" signature="171:194" ph="SELECT * FRO... category" />
+            <marker date="1496956862296" expanded="true" signature="1196:1427" ph="SELECT `film... film" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task2/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="62" selection-start-line="101" selection-start-column="62" selection-end-line="101" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/task3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496956862296" expanded="true" signature="171:194" ph="SELECT * FRO... category" />
+            <marker date="1496956862296" expanded="true" signature="1196:1427" ph="SELECT `film... film" />
           </folding>
         </state>
       </provider>
@@ -308,23 +339,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task1.php">
+    <entry file="file://$PROJECT_DIR$/task3/task3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="850">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <marker date="1496956862296" expanded="true" signature="171:194" ph="SELECT * FRO... category" />
+            <marker date="1496956862296" expanded="true" signature="1196:1427" ph="SELECT `film... film" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task3/task3.php">
+    <entry file="file://$PROJECT_DIR$/task1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-          <folding>
-            <marker date="1496955255887" expanded="true" signature="171:194" ph="SELECT * FRO... category" />
-            <marker date="1496955255887" expanded="true" signature="1324:1555" ph="SELECT `film... film" />
-            <marker date="1496955255887" expanded="true" signature="1324:1754" ph="SELECT `film... film" />
-          </folding>
+        <state relative-caret-position="123">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
