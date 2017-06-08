@@ -9,7 +9,6 @@ echo 'Успешно соединились';
 $categories = mysql_query("SELECT * FROM  category");
 if   (mysql_num_rows($categories) > 0){
     $cats = [];
-//В цикле формируем массив разделов, ключом будет id родительской категории, а также массив разделов, ключом будет id категории
     while($cat =  mysql_fetch_assoc($categories)){
         $cats_ID[$cat['id']][] = $cat;
         $cats[$cat['parent_id']][$cat['id']] =  $cat;
