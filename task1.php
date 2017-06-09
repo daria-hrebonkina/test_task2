@@ -7,11 +7,11 @@ function getNextArr($prevArr)
     for ($i = 0; $i < $newLen; $i++) {
         $q = 0;
         for ($j = 0; $j < 10; $j++) {
-            if ($prevArr[$i - $j]) {
+            if (isset($prevArr[$i - $j]) && $prevArr[$i - $j]) {
                 $q += $prevArr[$i - $j];
-                $arr[$i] = $q;
             }
         }
+        $arr[$i] = $q;
     }
     return $arr;
 }
